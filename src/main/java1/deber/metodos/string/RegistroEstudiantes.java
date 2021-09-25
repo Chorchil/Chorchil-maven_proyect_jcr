@@ -52,6 +52,7 @@ public class RegistroEstudiantes {
 
 		} while (n != 3);
 		System.out.println("Fin del programa");
+		System.out.println("");
 	}
 
 }
