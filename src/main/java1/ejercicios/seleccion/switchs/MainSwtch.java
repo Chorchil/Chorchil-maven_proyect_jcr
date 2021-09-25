@@ -32,6 +32,7 @@ public class MainSwtch {
 			
 		} while (!opcion.equals("3"));
 		System.out.println("Gracias por preferirnos!!");
+		System.out.println("");
 	}
 
 }
