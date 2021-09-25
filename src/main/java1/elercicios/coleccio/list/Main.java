@@ -22,6 +22,7 @@ public class Main {
 		listaNueva.add(numero4);
 		listaNueva.add(numero5);
 		listaNueva.add(numero6);
+		System.out.println("");
 
 	}
 
